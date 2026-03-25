@@ -5,7 +5,7 @@ All Credits to Arjienx and YoohPH
 Important Reminder: set niyo pala ipv6 apn protocol niyo. punta lng kayo sa phone settings - sim and mobile network - click your gtm sim - apn or access point names- edit niyo apn protocol set to ipv6 only
 
 First, Download This Slipstream app
-https://github.com/kiranoble/gtmnoloadslipstream/raw/refs/heads/main/SlipStream_v1.0.1.apk
+https://github.com/kiranoble/gtmnoloadslipstream/raw/refs/heads/main/SlipStream_v1.0.4.apk
 
 Steps:
 1. Install Slipstream apk, nasa taas
@@ -14,7 +14,7 @@ Steps:
 4. Click Online (via raw url)
 5. Paste this link
 ```
-https://pastebin.com/raw/xFifv30k
+https://pastebin.com/raw/vssJS9Cx
 ```
 6. Choose any server then Click Start
 7. Open izph vpn app and connect on gtmnoload slipstream sa payload at globe tm noload slipstream sa server.
