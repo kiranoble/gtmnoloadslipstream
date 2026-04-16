@@ -12,9 +12,9 @@ Steps:
 2. Open Slipstream app
 3. Click + symbol sa taas then click config file
 4. Click Online (via raw url)
-5. Paste this link
+5. Paste this link (updated servers april 16, 2026)
 ```
-https://pastebin.com/raw/vssJS9Cx
+https://pastebin.com/raw/ZYXRWsTX
 ```
 6. Choose any server then Click Start
 7. Open izph vpn app and connect on gtmnoload slipstream sa payload at globe tm noload slipstream sa server.
